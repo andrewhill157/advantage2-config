@@ -22,13 +22,12 @@
 {kp-e}>{speed9}{-rctrl}{a}{+rctrl}{-lshift}{;}{+lshift}{s}{e}{l}{e}{c}{t}{hyphen}{l}{a}{y}{o}{u}{t}{space}{e}{v}
 {kp-r}>{speed9}{-lctrl}{a}{+lctrl}{obrack}
 {kp-a}>{speed9}{-lctrl}{left}{+lctrl}
-{kp-s}>{speed9}{-lctrl}{a}{o}{+lctrl}
+{kp-s}>{speed9}{-lctrl}{a}{+lctrl}{o}
 {kp-d}>{speed5}{-lctrl}{a}{+lctrl}{-lshift}{'}{+lshift}
-{kp-f}>{speed9}{-lctrl}{a}{c}{+lctrl}
+{kp-f}>{speed9}{-lctrl}{a}{+lctrl}{c}
 {kp-g}>{speed9}{-lctrl}{right}{+lctrl}
 [kp-rwin]>[kpshft]
-{kp-x}>{speed9}{-lctrl}{a}{n}{+lctrl}
-{kp-x}>{speed9}{-lctrl}{a}{+lctrl}
-{kp-c}>{speed9}{-lctrl}{a}{x}{+lctrl}
+{kp-x}>{speed9}{-lctrl}{a}{+lctrl}{n}
+{kp-c}>{speed9}{-lctrl}{a}{+lctrl}{x}
 {kp-v}>{speed9}{-lctrl}{a}{+lctrl}{,}
 [kp-rshift]>[kpshft]
